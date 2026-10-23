@@ -15,13 +15,22 @@
 
 ## 🙋 Sobre mim
 
-- 🎓 Cursando **Engenharia de Computação** na **Universidade São Judas Tadeu** previsão de formatura: **2029**
+- 🎓 Cursando **Engenharia de Computação** na **Universidade São Judas Tadeu** previsão de formatura: **2028**
 - 💼 Atuo com **desenvolvimento de aplicativos mobile e APIs**, além de integrações entre sistemas
 - 📍 Moro em **Guarulhos, SP**
-- 🌱 Estudando agora: **Desenvolvimento Back-end .NEt**
-- 🎯 Objetivo: Meu principal objetivo é meu tornar um desenvolvendo full Stack na linguagem C# e também conseguir desenvolver apps para iOS e Android 
+- 🌱 Estudando agora: **Desenvolvimento Back-end .NET**
+- 🎯 Objetivo: Meu principal objetivo é meu tornar um desenvolvedor full Stack na linguagem C# e também conseguir desenvolver apps para iOS e Android 
 - 💬 Pergunte-me sobre: **React Native, integrações e desenvolvimento back-end**
 - ⚡ Curiosidade: Sou uma pessoa que aprende rápido principalmente quando estou fazendo na prática 
+
+---
+## 💼 Experiência profissional
+
+**Suporte Técnico/Desenvolvedor | Mediterrâneo administração de Bens | 2025 - atual**
+- Desenvolvimento e manutenção de aplicativos mobile em React Native (Android e iOS)
+- Criação e consumo de APIs para integrar aplicativos e sistemas internos
+- Integração com serviços externos, como WhatsApp Business API
+- Suporte técnico a ferramentas de atendimento e comunicação interna
 
 ---
 
@@ -60,7 +69,7 @@
 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
-| [**SmartBianco**](https://github.com/aias11/SmartBianco) | Sistema desktop para gestão de academias (CRUD de alunos, planos e pagamentos) | Java, [BANCO] |
+| [**SmartBianco**](https://github.com/aias11/SmartBianco) | Sistema desktop para gestão de academias (CRUD de alunos, planos e pagamentos) | Java, MySQL |
 
 
 
@@ -68,7 +77,7 @@
 
 ## 📚 Formação e cursos
 
-- 🎓 **Engenharia de Computação** | Universidade São Judas Tadeu| 2024 - 2028
+- 🎓 **Engenharia de Computação** | Universidade São Judas Tadeu | 2024 - 2028
 - 📜 Desenvolvimento Back-end .NET | Alura | 2026 - 2027
 
 ---
