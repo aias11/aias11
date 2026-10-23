@@ -15,7 +15,7 @@
 
 ## 🙋 Sobre mim
 
-- 🎓 Cursando **Engenharia de Computação** em [NOME DA FACULDADE] (previsão de formatura: [ANO])
+- 🎓 Cursando **Engenharia de Computação** na **Universidade São Judas Tadeu** previsão de formatura: **2029**
 - 💼 Atuo com **desenvolvimento de aplicativos mobile e APIs**, além de integrações entre sistemas
 - 📍 Moro em **Guarulhos, SP**
 - 🌱 Estudando agora: **Desenvolvimento Back-end .NEt**
@@ -30,7 +30,7 @@
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### ⚙️ Back-end
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
