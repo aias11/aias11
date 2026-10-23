@@ -18,10 +18,10 @@
 - 🎓 Cursando **Engenharia de Computação** em [NOME DA FACULDADE] (previsão de formatura: [ANO])
 - 💼 Atuo com **desenvolvimento de aplicativos mobile e APIs**, além de integrações entre sistemas
 - 📍 Moro em **Guarulhos, SP**
-- 🌱 Estudando agora: **[TECNOLOGIA 1]** e **[TECNOLOGIA 2]**
-- 🎯 Objetivo: [EX.: me aprofundar em arquitetura de back-end e desenvolvimento mobile]
-- 💬 Pergunte-me sobre: **[EX.: React Native, APIs REST, integração com WhatsApp]**
-- ⚡ Curiosidade: [UMA FRASE LEVE SOBRE VOCÊ]
+- 🌱 Estudando agora: **Desenvolvimento Back-end .NEt**
+- 🎯 Objetivo: Meu principal objetivo é meu tornar um desenvolvendo full Stack na linguagem C# e também conseguir desenvolver apps para iOS e Android 
+- 💬 Pergunte-me sobre: **React Native, integrações e desenvolvimento back-end**
+- ⚡ Curiosidade: Sou uma pessoa que aprende rápido principalmente quando estou fazendo na prática 
 
 ---
 
@@ -29,6 +29,7 @@
 
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### ⚙️ Back-end
@@ -60,17 +61,15 @@
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
 | [**SmartBianco**](https://github.com/aias11/SmartBianco) | Sistema desktop para gestão de academias (CRUD de alunos, planos e pagamentos) | Java, [BANCO] |
-| [**[NOME DO PROJETO 2]**](https://github.com/aias11/[REPO]) | [UMA FRASE: problema que resolve] | [TECNOLOGIAS] |
-| [**[NOME DO PROJETO 3]**](https://github.com/aias11/[REPO]) | [UMA FRASE: problema que resolve] | [TECNOLOGIAS] |
+
 
 
 ---
 
 ## 📚 Formação e cursos
 
-- 🎓 **Engenharia de Computação** | [NOME DA FACULDADE] | [ANO INÍCIO] - [ANO PREVISTO]
-- 📜 [NOME DO CURSO OU CERTIFICADO] | [PLATAFORMA] | [ANO]
-- 📜 [NOME DO CURSO OU CERTIFICADO] | [PLATAFORMA] | [ANO]
+- 🎓 **Engenharia de Computação** | Universidade São Judas Tadeu| 2024 - 2028
+- 📜 Desenvolvimento Back-end .NET | Alura | 2026 - 2027
 
 ---
 
